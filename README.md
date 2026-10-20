@@ -4,8 +4,8 @@
 
 | 文档 | 在线阅读（GitHub Pages） |
 |---|---|
-| DeepSeek-V4.1-Flash：将 KV 缓存压缩推向极限 | [HTML 版](https://ruqinhu.github.io/deepseek-papers/DeepSeek_V41_Tech_Report_%E4%B8%AD%E6%96%87.html) |
-| DeepSeek Elastic Compute（DSec）：面向大规模智能体训练的高效沙箱基础设施 | [HTML 版](https://ruqinhu.github.io/deepseek-papers/2609.22978v1_%E4%B8%AD%E6%96%87.html) |
+| DeepSeek-V4.1-Flash：将 KV 缓存压缩推向极限 | [HTML 版](http://i.rootk.com/deepseek-papers/DeepSeek_V41_Tech_Report_%E4%B8%AD%E6%96%87.html) |
+| DeepSeek Elastic Compute（DSec）：面向大规模智能体训练的高效沙箱基础设施 | [HTML 版](http://i.rootk.com/deepseek-papers/2609.22978v1_%E4%B8%AD%E6%96%87.html) |
 
 ## 内容说明
 
